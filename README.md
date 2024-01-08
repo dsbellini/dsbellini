@@ -1,6 +1,6 @@
 Olá, me chamo **Danilo Bellini**, sou natural de São Paulo mas moro em Belo Horizonte há 7 anos.
 <br />
-Sou **estudante na Trybe** e estou em busca da minha primeira oportunidade profissional como dev! 🚀.
+Sou **estudante na Trybe** e estou em busca da minha primeira oportunidade profissional como dev! 🚀
 
 <p>Não utilizo outras redes sociais além do LinkedIn.</p>
 
@@ -11,7 +11,7 @@ Sou **estudante na Trybe** e estou em busca da minha primeira oportunidade profi
 
 **Meus interesses pessoais:**
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/YYW0hHizzIOrlhimPG/giphy.gif" width="400px" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="400px" />
 
 - 👨🏽‍💻 Estou cursando os dois últimos módulos de Desenvolvimento Web na Trybe (Ciência da Computação / Java);
 - 🌱 Neste momento estou aprendendo Phyton; 
