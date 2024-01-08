@@ -55,10 +55,6 @@ Sou **estudante na Trybe** e estou em busca da minha primeira oportunidade profi
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dsbellini&show_icons=true&locale=en&layout=compact" alt="dsbellini" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dsbellini&show_icons=true&locale=en" alt="dsbellini" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dsbellini&" alt="dsbellini" /></p>
-
 <picture>
   <source
     srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dsbellini&theme=github_dark"
