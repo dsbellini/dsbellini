@@ -18,7 +18,7 @@ Sou **estudante na Trybe** e estou em busca da minha primeira oportunidade profi
 - 🎭 Meus hobbies são musculação e motociclismo;
 - 💼 Estou me dedicando 100% para ingressar na área e evoluir na minha carreira de desenvolvedor;
 - 💬 Pergunte-me sobre minimalismo, é o meu tema preferido.
-- 📫 Por favor, envie um email para **bellini.daan@gmail.com** para me encontrar.
+- 📫 Contato via email para: **bellini.daan@gmail.com**.
 - 📝 Veja meu Curriculum Vitae <a href="" target="_blank">clicando aqui</a>;
 - 📓 Veja meu portfólio <a href="https://dsbellini.github.io/" target="_blank">clicando aqui</a>.
 
