@@ -81,8 +81,6 @@ Sou **estudante na Trybe** e estou em busca da minha primeira oportunidade profi
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dsbellini" alt="dsbellini" /> </p>
 
-⭐️ ReadMe baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
-
 <!--
 **dsbellini/dsbellini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
