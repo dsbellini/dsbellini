@@ -60,7 +60,7 @@ Sou **estudante na Trybe** e estou em busca da minha primeira oportunidade profi
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode"/> 
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dsbellini&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=dsbellini&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dsbellini&show_icons=true&locale=en&layout=compact" alt="dsbellini" /></p>
 
