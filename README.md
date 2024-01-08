@@ -20,7 +20,7 @@ Sou **estudante na Trybe** e estou em busca da minha primeira oportunidade profi
 - 💬 Pergunte-me sobre minimalismo, é o meu tema preferido.
 - 📫 Contato via email para: **bellini.daan@gmail.com**.
 - 📓 Veja meu portfólio <a href="https://dsbellini.github.io/" target="_blank">clicando aqui</a>.
-<!-- - 📝 Veja meu Curriculum Vitae <a href="" target="_blank">clicando aqui</a>; -->
+- 📝 Veja meu Curriculum Vitae <a href="https://github.com/dsbellini/dsbellini/blob/main/CV-Danilo-Bellini.pdf" target="_blank">clicando aqui</a>;
 
 <br />
 
