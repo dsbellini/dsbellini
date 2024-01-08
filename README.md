@@ -5,7 +5,6 @@
 <p>Não utilizo outras redes sociais além do LinkedIn.</p>
 
 <br />
-<br />
 
 Olá, me chamo **Danilo Bellini**, sou de São Paulo, Brasil e atualmente moro em Belo Horizonte. Sou **estudante na Trybe** e estou em busca da minha primeira oportunidade profissional como dev! 🚀. 
 
