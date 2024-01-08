@@ -4,22 +4,22 @@
 
 <p>Não utilizo outras redes sociais além do LinkedIn.</p>
 
-Olá, me chamo **Danilo Bellini**, sou de São Paulo, Brasil e atualmente moro em Belo Horizonte. Sou **estudante na Trybe** e estou em busca da minha primeira oportunidade profissional como dev! 🚀. 
+<p>Olá, me chamo **Danilo Bellini**, sou natural de São Paulo mas moro em Belo Horizonte há 7 anos.<p>  
+<p>Sou **estudante na Trybe** e estou em busca da minha primeira oportunidade profissional como dev! 🚀.</p> 
 
 **Meus interesses pessoais:**
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/YYW0hHizzIOrlhimPG/giphy.gif" width="400px" />
 
-- 👨🏽‍💻 Estou cursando os dois últimos módulos de Desenvolvimento Web na Trybe;
+- 👨🏽‍💻 Estou cursando os dois últimos módulos de Desenvolvimento Web na Trybe (Ciência da Computação / Java);
 - 🌱 Neste momento estou aprendendo Phyton; 
 - 🎭 Meus hobbies são musculação e motociclismo;
 - 💼 Estou me dedicando 100% para ingressar na área e evoluir na minha carreira de desenvolvedor;
 - 💬 Pergunte-me sobre minimalismo, é o meu tema preferido.
 - 📫 Por favor, envie um email para **bellini.daan@gmail.com** para me encontrar.
-- 📝 Veja meu Curriculum Vitae <a href="" target="_blank">clicando aqui</a> para mais informações.
-- 📓 Veja meu portfólio <a href="https://dsbellini.github.io/" target="_blank">clicando aqui</a>
+- 📝 Veja meu Curriculum Vitae <a href="" target="_blank">clicando aqui</a>;
+- 📓 Veja meu portfólio <a href="https://dsbellini.github.io/" target="_blank">clicando aqui</a>.
 
-<br />
 <br />
 
 **Linguagens e ferramentas:**  
@@ -66,7 +66,7 @@ Olá, me chamo **Danilo Bellini**, sou de São Paulo, Brasil e atualmente moro e
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dsbellini" alt="dsbellini" /> </p>
 
-⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
+⭐️ ReadMe baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
 
 <!--
 **dsbellini/dsbellini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
