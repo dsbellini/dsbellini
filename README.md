@@ -1,11 +1,13 @@
+Olá, me chamo **Danilo Bellini**, sou natural de São Paulo mas moro em Belo Horizonte há 7 anos.
+<br />
+Sou **estudante na Trybe** e estou em busca da minha primeira oportunidade profissional como dev! 🚀.
+
+<p>Não utilizo outras redes sociais além do LinkedIn.</p>
+
 <a href="https://www.linkedin.com/in/danilobellini/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 
-<p>Não utilizo outras redes sociais além do LinkedIn.</p>
-
-<p>Olá, me chamo **Danilo Bellini**, sou natural de São Paulo mas moro em Belo Horizonte há 7 anos.<p>  
-<p>Sou **estudante na Trybe** e estou em busca da minha primeira oportunidade profissional como dev! 🚀.</p> 
 
 **Meus interesses pessoais:**
 
