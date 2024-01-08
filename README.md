@@ -1,4 +1,4 @@
-Olá, me chamo **Danilo Bellini**, sou natural de São Paulo mas moro em Belo Horizonte há 7 anos.
+Olá! Me chamo **Danilo Bellini**, sou natural de São Paulo e moro em Belo Horizonte há 7 anos.
 <br />
 Sou **estudante na Trybe** e estou em busca da minha primeira oportunidade profissional como dev! 🚀
 
