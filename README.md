@@ -4,8 +4,6 @@
 
 <p>Não utilizo outras redes sociais além do LinkedIn.</p>
 
-<br />
-
 Olá, me chamo **Danilo Bellini**, sou de São Paulo, Brasil e atualmente moro em Belo Horizonte. Sou **estudante na Trybe** e estou em busca da minha primeira oportunidade profissional como dev! 🚀. 
 
 **Meus interesses pessoais:**
@@ -13,7 +11,7 @@ Olá, me chamo **Danilo Bellini**, sou de São Paulo, Brasil e atualmente moro e
   <img align="right" alt="GIF" src="https://media.giphy.com/media/YYW0hHizzIOrlhimPG/giphy.gif" width="400px" />
 
 - 👨🏽‍💻 Estou cursando os dois últimos módulos de Desenvolvimento Web na Trybe;
-- 🌱 Estou aprendendo como fazer testes de integração nas minhas próprias **API**; 
+- 🌱 Neste momento estou aprendendo Phyton; 
 - 🎭 Meus hobbies são musculação e motociclismo;
 - 💼 Estou me dedicando 100% para ingressar na área e evoluir na minha carreira de desenvolvedor;
 - 💬 Pergunte-me sobre minimalismo, é o meu tema preferido.
