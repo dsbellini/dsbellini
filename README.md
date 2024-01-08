@@ -66,6 +66,8 @@ Sou **estudante na Trybe** e estou em busca da minha primeira oportunidade profi
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dsbellini&show_icons=true&locale=en&layout=compact" alt="dsbellini" /></p>
+
 <br />
 <br />
 
