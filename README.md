@@ -13,8 +13,8 @@ Sou **estudante na Trybe** e estou em busca da minha primeira oportunidade profi
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="400px" />
 
-- 👨🏽‍💻 Estou cursando os dois últimos módulos de Desenvolvimento Web na Trybe (Ciência da Computação / Java);
-- 🌱 Neste momento estou aprendendo Phyton; 
+- 👨🏽‍💻 Estou cursando o último módulo de Desenvolvimento Web na Trybe (Java);
+- 🌱 Neste momento estou aprendendo Java; 
 - 🎭 Meus hobbies são musculação e motociclismo;
 - 💼 Estou me dedicando 100% para ingressar na área e evoluir na minha carreira de desenvolvedor;
 - 💬 Pergunte-me sobre minimalismo, é o meu tema preferido.
