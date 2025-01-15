@@ -1,6 +1,6 @@
 Olá! Me chamo **Danilo Bellini**, sou natural de São Paulo e moro em Belo Horizonte há 7 anos.
 <br />
-Sou **estudante na Trybe** e estou em busca da minha primeira oportunidade profissional como dev! 🚀
+Atualmente atuo como Pessoa Desenvolvedora Backend na JCM Consultores! 🚀
 
 <p>Não utilizo outras redes sociais além do LinkedIn.</p>
 
@@ -13,13 +13,12 @@ Sou **estudante na Trybe** e estou em busca da minha primeira oportunidade profi
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="400px" />
 
-- 👨🏽‍💻 Estou cursando o último módulo de Desenvolvimento Web na Trybe (Java);
-- 🌱 Neste momento estou aprendendo Java; 
+- 👨🏽‍💻 Estudando Inglês e buscando aperfeiçoar minhas qualidades técnicas em programação;
+- 🌱 Neste momento estou me aprofundando em C#; 
 - 🎭 Meus hobbies são musculação e motociclismo;
-- 💼 Estou me dedicando 100% para ingressar na área e evoluir na minha carreira de desenvolvedor;
 - 💬 Pergunte-me sobre minimalismo, é o meu tema preferido.
 - 📫 Contato via email para: **bellini.daan@gmail.com**.
-- 📓 Veja meu portfólio <a href="https://dsbellini.github.io/" target="_blank">clicando aqui</a>.
+- 📓 Veja meu portfólio de estudante <a href="https://dsbellini.github.io/" target="_blank">clicando aqui</a>.
 - 📝 Veja meu Curriculum Vitae <a href="https://github.com/dsbellini/dsbellini/blob/main/CV-Danilo-Bellini.pdf" target="_blank">clicando aqui</a>;
 
 <br />
